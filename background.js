@@ -2,7 +2,7 @@ const encoder = new TextEncoder();
 const decoder = new TextDecoder('utf-8');
 
 // Get meganations when extension starts and each 5 minutes.
-function fetchMeganations() { fetch('https://raw.githubusercontent.com/3meraldK/earthmc-dynmapcolor/main/data.json').then(response => response.json()).then(data => meganations = data).catch(() => meganations = []) };
+function fetchMeganations() { fetch('https://raw.githubusercontent.com/Mr_Toirol/chad-dynmap/main/data.json').then(response => response.json()).then(data => meganations = data).catch(() => meganations = []) };
 var meganations;
 fetchMeganations();
 setInterval(() => fetchMeganations(), 1000*60*5);
