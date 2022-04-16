@@ -16,5 +16,5 @@
   {"name": "Fourth Australian Empire", "nations": ["crusader_states", "tlingit", "micronesia", "ruteng", "foxe_basin", "arctic_alaska", "maryland", "scythia", "nevada", "4.1neednewname", "russian", "nejd", "iroquois"], "color": ["#000000", "#00FFB7"]},
   
   
-  {"name": "the name of your meganation", "nations": [the nations in your meganation between quotation marks and separated by commas], "color": ["#000000", "#000000"]},
+  {"name": "the name of your meganation", "nations": [nations (between quotation marks and separated by commas) ], "color": ["#000000", "#000000"]},
 ]
