@@ -1,4 +1,4 @@
 [
 	{"name": "Second Ethiopian Empire", "nations": ["ethiopia"], "color": ["#23b8a9", "#142e2b"]},
-	{"name": "Fourth Australian Empire", "nations": ["australia", "down_under", "kimberley", "westernaustralia", "terraaustralis", "papua", "west_papua", "long_bay", "northaustralia", "giya", "moreton_bay", "tasmania", "lake_torrens", "victoria", "queensland", "outback", "Ulimaroa", "oz", "new_holland", "cape_york", "oceania", "new_south_wales", "neale", "blackwood"], "color": ["#000000", "#00FFB7"]}
+	{"name": "Fourth Australian Empire", "nations": ["australia", "down_under", "kimberley", "westernaustralia", "terraaustralis", "papua", "west_papua", "long_bay", "northaustralia", "giya", "moreton_bay", "tasmania", "lake_torrens", "victoria", "queensland", "outback", "ulimaroa", "oz", "new_holland", "cape_york", "oceania", "new_south_wales", "neale", "blackwood"], "color": ["#000000", "#00FFB7"]}
 ]
