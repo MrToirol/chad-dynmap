@@ -1,3 +1,4 @@
 [
+	{"name": "Second Ethiopian Empire", "nations": ["Ethiopia"], "color": ["#23b8a9", "#142e2b"]},
 	{"name": "Fourth Australian Empire", "nations": ["Australia", "Down_Under", "Kimberley", "WesternAustralia", "TerraAustralis", "Papua", "West_Papua", "Long_Bay", "NorthAustralia", "Giya", "Moreton_Bay", "Tasmania", "Lake_Torrens", "Victoria", "Queensland", "Outback", "Ulimaora", "Oz", "New_Holland", "Cape_York", "Oceania", "New_South_Wales", "Neale", "Blackwood"], "color": ["#000000", "#940000"]}
 ]
